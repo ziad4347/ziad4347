@@ -8,7 +8,7 @@
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "icons":  [
+    "icons":[
         {
             "src": "\/android-icon-36x36.png",
             "sizes": "36x36",
